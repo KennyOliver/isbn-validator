@@ -2,7 +2,7 @@
 
 ![image](https://www.codefactor.io/repository/github/KennyOliver/isbn-validator/badge?style=for-the-badge)
 
-[![](https://repl.it/badge/github/KennyOliver/isbn-validator)](https://repl.it/@KennyOliver/repl-name)
+[![](https://repl.it/badge/github/KennyOliver/isbn-validator)](https://repl.it/@KennyOliver/isbn-validator)
 
 Python program which checks if an ISBN book code is valid or not.
 
